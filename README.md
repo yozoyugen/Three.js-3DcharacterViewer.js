@@ -2,4 +2,6 @@
 
 ## Demo page  
 https://caelab.work/m3DmodelViewer/index.html  
-
+  
+## Demo video  
+https://youtu.be/Q8EG01m35DQ
