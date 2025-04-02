@@ -1,5 +1,5 @@
 Simple viewer for 3D character by Three.js  
-You can change angles of joints by gui slider.   
+You can change angles of joints by gui sliders. 
 ![3DcharaViewer001](https://github.com/user-attachments/assets/feb0118c-b2e0-4f77-b651-42a3606790f0)  
 
 ## Demo page  
